@@ -1,0 +1,37 @@
+
+====== Games of GIS ======
+
+Partie 1 : Intégration du raster
+
+Integrez une carte de Westeros & Essos (et si possible Sothorios)(celle fournie ou une autre trouvée sur Internet) à Qgis,
+ et la placer dans un monde "virtuel" avec ces indications:
+
+- le monde virtuel utilise comme nous le système WGS84.
+- le "Mur" se situe sur notre écosse. Eastwatch-by-the-sea est situé sur notre ville de Dundee.
+- la cote sud (Dorne) correspond a notre cote andalouse (cote sud espagnole). Sunspear est situé sur notre Carthagene.
+
+Partie 2 : Mapping
+
+Vous créerez autant de couches vectorielles que nécessaires pour faire apparaitre:
+
+- les principales villes
+- un découpage administratif (baronnies, régions)
+- la géographie de la carte (mers, plaines, vignes, montagnes)
+- un réseau routier
+- un réseau cotier navigable
+- toute autre amélioration que vous jugerez nécessaire
+
+Partie 3 : Base de données
+
+Vous importerez tout ou partie des données disponibles ici : https://github.com/jeffreylancaster/game-of-thrones (https://github.com/jeffreylancaster/game-of-thrones/tree/master/data) dans une base de données PostGis et/ou MongoDB (et/ou Neo4j)
+
+Vous connecterez ces données à votre carte dans la mesure du possible, vous essaierez d'établir des corrélations et agregations interessantes, et vous ferez apparaitre un maximum d'informations attributaires, de la manière la plus conviviale possible.
+
+Infos:
+Groupes de 3 personnes max
+Début : jeudi 04/02
+Fin : 
+Livrables:
+ - un rapport final: présentation des choix effectués, des travaux réalisés et des résultats obtenus
+ - une video/screencast de démo.
+
